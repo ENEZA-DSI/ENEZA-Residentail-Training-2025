@@ -12,7 +12,7 @@ Mini-projects for the residential training. As part of the Eneza Residential tra
 5. Project 5: [Single-Cell Genomic Analysis Using Machine Learning](Project_5.md)
 6. Project 6: [Genomic Comparison of Microsporidia MB-Infected and Uninfected Anopheles arabiensis](Project_6.md)
 
-To select a project, please comment on the issue and why you'd like to tackle the mini-project. Select at least two, and specify your First, Second and Third choice. 
+To select a project, please comment on the issue and why you'd like to tackle the mini-project. Select at least two, and specify your First, Second and Third choice. Kindly also remember to include your institution (where you come from).
 
 ## Expected
 - Work collaboratively on the project. In your report, you need to state the role played by each group member.
