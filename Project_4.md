@@ -1,36 +1,18 @@
-# A Machine Learning Approach to predict COVID-19 Global Patterns for Epidemiological Insights
+# Single-Cell Genomic Analysis Using Machine Learning
+ 
+Single cell genomics has emerged as an important technology in modern biology, mainly aimed at understanding the genomic, transcriptomic or epigenomic profiles of many individual cells in parallel. A massive amount of data generated requires the application of machine learning technologies to derive biological value. The paper [Machine learning for single cell genomics data analysis](https://www.biorxiv.org/content/10.1101/2021.02.04.429763v1) provides a solid introduction to machine learning techniques and principles and a survey of recent literature to keep in mind. The [single cell genomics course](https://www.singlecellcourse.org/) is another great resource to get a feel of the field, the kind of data generated, and analysis techniques and things to look out for. Finally, this [github repo](https://github.com/crazyhottommy/scRNAseq-analysis-notes) links reading materials for getting started with single-cell genomics. 
 
-## Abstract
+In this mini-project, you will make use of [single cell genomics data](https://www.kaggle.com/alexandervc/rna-seq-data) generated and provided through Kaggle. These are results of single cell RNA sequencing, i.e. rows - correspond to cells, columns to genes with the values of the matrix showing how strong "expression" of the corresponding gene is in the corresponding cell. The corresponding notebook provides an exploration of the data that you are expected to analyse. You are expected to:
 
-The COVID-19 pandemic has reshaped global public health strategies, emphasizing the need for data-driven insights to guide interventions. Traditional epidemiological models struggle to adapt to the complex, nonlinear dynamics of a rapidly evolving pandemic. 
-This study uses the Our World in Data COVID-19 dataset to explore disease patterns using statistical analysis, feature engineering, and machine learning. We construct a comprehensive pipeline from data cleaning and exploratory analysis to predictive modeling and 
-clustering to uncover critical indicators influencing case and death rates globally. Using classification and regression models, we identify key predictors of high case burden and total mortality. We further group countries using unsupervised learning to reveal 
-structural epidemiological clusters. Our results highlight socioeconomic and demographic factors shaping national outcomes, offering new directions for targeted policy interventions and real-time pandemic monitoring.
+1. Perform exploratory analysis of the data provides and decide on some of the questions you can address through machine learning
+2. Make decisions on how you will deal with challenges derived from sparsity, heterogeneity, and scale of SC genomic data
+3. Build machine learning models to explore the questions identified from exploratory analysis
+4. Explore how you can visualise the results
 
-## Research Objectives
-
-1. To perform a thorough exploratory data analysis of global COVID-19 trends and assess the quality of the dataset.
-2. To identify the most influential features affecting infection and mortality rates using statistical correlation and hypothesis testing.
-3. To build machine learning models that predict high case rates and total deaths based on country-specific characteristics.
-4. To cluster countries using unsupervised learning techniques to uncover epidemiological patterns and groupings.
-5. To develop an interpretable, end-to-end pipeline that supports real-time, evidence-based decision-making in pandemic response.
-
-## Datasets
-
-The primary dataset originates from Our World in Data, encompassing COVID-19 case counts, deaths, testing rates, vaccination data, GDP, healthcare capacity, and population demographics across 200+ countries and territories. 
-The data spans from the beginning of the pandemic through multiple waves, including:
-
-Cumulative and daily cases/deaths
-Vaccination metrics
-Healthcare system indicators
-Economic and population statistics
-
-After preprocessing, engineered features include:
-
-1. 7-day rolling averages
-2. Case fatality rates
-3. Cases/deaths per million
-4. Lagged variables
-5. Categorized severity labels (e.g., high vs. low case rates)
-
-This rich, high-dimensional dataset enables multivariate analysis and robust modeling of pandemic dynamics at a global scale.
+## References
+In addition to the resources linked above, the following papers will introduce you to SC genomics. 
+1. Hie, B., Peters, J., Nyquist, S. K., Shalek, A. K., Berger, B., & Bryson, B. D. (2020). Computational Methods for Single-Cell RNA Sequencing. Annual Review of Biomedical Data Science, 3(1), 339–364. https://doi.org/10.1146/annurev-biodatasci-012220-100601
+2. Lähnemann, D., Köster, J., Szczurek, E., McCarthy, D. J., Hicks, S. C., Robinson, M. D., Vallejos, C. A., Campbell, K. R., Beerenwinkel, N., Mahfouz, A., Pinello, L., Skums, P., Stamatakis, A., Attolini, C. S. O., Aparicio, S., Baaijens, J., Balvert, M., Barbanson, B. de, Cappuccio, A., … Schönhuth, A. (2020). Eleven grand challenges in single-cell data science. In Genome Biology (Vol. 21, Issue 1). Genome Biology. https://doi.org/10.1186/s13059-020-1926-6
+3. Raimundo, F., Meng-Papaxanthos, L., Vallot, C., & Vert, J. P. (2021). Machine learning for single-cell genomics data analysis. Current Opinion in Systems Biology, 26, 64–71. https://doi.org/10.1016/j.coisb.2021.04.006
+4. Miller, H. E., Gorthi, A., Bassani, N., Lawrence, L. A., Iskra, B. S., & Bishop, A. J. R. (2020). Reconstruction of ewing sarcoma developmental context from mass-scale transcriptomics reveals characteristics of ewsr1-fli1 permissibility. Cancers, 12(4). https://doi.org/10.3390/cancers12040948
+5. Andrews, T. S., Kiselev, V. Y., McCarthy, D., & Hemberg, M. (2021). Tutorial: guidelines for the computational analysis of single-cell RNA sequencing data. Nature Protocols, 16(1). https://doi.org/10.1038/s41596-020-00409-w

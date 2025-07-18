@@ -6,10 +6,10 @@ Mini-projects for the residential training. As part of the Eneza Residential tra
 
 ## Projects
 1. Project 1: [Metagenomic Profiling of Phlebotomus Gut Microbiota](Project_1.md)
-2. Project 3: [Data mining to understand the adoption of Data Science for Health in Kenya ](Project_3.md)
-3. Project 4: [A Machine Learning Approach to predict COVID-19 Global Patterns for Epidemiological Insights](Project_4.md)
-4. Project 5: [Single-Cell Genomic Analysis Using Machine Learning](Project_5.md)
-5. Project 6: [Genomic Comparison of Microsporidia MB-Infected and Uninfected Anopheles arabiensis](Project_6.md)
+2. Project 2: [Data mining to understand the adoption of Data Science for Health in Kenya ](Project_2.md)
+3. Project 3: [A Machine Learning Approach to predict COVID-19 Global Patterns for Epidemiological Insights](Project_3.md)
+4. Project 4: [Single-Cell Genomic Analysis Using Machine Learning](Project_4.md)
+5. Project 5: [Genomic Comparison of Microsporidia MB-Infected and Uninfected Anopheles arabiensis](Project_5.md)
 
 To select a project, please comment on the issue and why you'd like to tackle the mini-project. Select at least two, and specify your First, Second and Third choice. Kindly also remember to include your institution (where you come from).
 
