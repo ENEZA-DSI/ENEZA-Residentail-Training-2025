@@ -23,3 +23,10 @@ To elucidate the genetic basis underlying the resilience of coral symbionts (Sym
 2. To assess the evolutionary relationship of the algae symbionts in coral species
 3. To characterize the algae symbionts within coral species
 4. To compare the genetic structure of the symbiont community of bleached and unbleached coral reefs within Shimoni in Kenyan coast.
+
+## Metadata
+
+This experiment represented 10 coral species, including Acropora formosa, Acropora tenuis, Acropora spp., Acropora microphthalma, Acropora verweyi, Pocillopora damicornis, Pocillopora verrucosa, Porites cylindrica, Stylophora pistillata, and Stylophora subseriata.
+From our metadata, we have sample experiments on coral symbionts to compare bleached and non bleached coral states to understand the effects of environmental stressors,also differentiate corals from subtidal and intertidal zones to assess how varying exposure to environmental fluctuations influences symbiont communities and coral resilience. Techniques such as mineral accretion experiments evaluate the skeletal growth and calcification rates which are closely linked to symbiont photosynthesis and host health. Additionally, coral gardening methods involve fragmenting coral colonies and culturing microcolonies under controlled conditions to promote growth and symbiont acquisition, facilitating reef restoration efforts. These approaches collectively enable detailed investigations into the physiological and molecular dynamics of coral–dinoflagellate symbiosis under varying environmental and experimental setups
+We have 418 sample sequence data to work on, which comprises 209 reverse fastq reads and 209 forward fastq reads.
+
