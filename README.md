@@ -11,6 +11,7 @@ Mini-projects for the residential training. As part of the Eneza Residential tra
 4. Project 4: [Single-Cell Genomic Analysis Using Machine Learning](Project_4.md)
 5. Project 5: [Genomic Comparison of Microsporidia MB-Infected and Uninfected Anopheles arabiensis](Project_5.md)
 6. Project 6: [Impact of Ehrlichia ruminantium Infection on the Tissue-Specific Microbiome of Amblyomma gemma Ticks Collected from Cattle in Kenya](Project_6.md)
+7. Project 7: [Genetic Basis of Coral Symbionts Resilience on the Kenyan Coast](Project_7.md)
 
 To select a project, please comment on the issue and why you'd like to tackle the mini-project. Select at least two, and specify your First, Second and Third choice. Kindly also remember to include your institution (where you come from).
 
