@@ -13,3 +13,13 @@ This is also the case for the data on host-symbiont genotype interactions influe
 knowledge gap regarding the genetic diversity of coral symbionts and host-symbiont genotype interaction influencing bleaching status of coral reefs that are undergoing
 restoration efforts. This study aims to address this gap by evaluating the composition dinoflagellate algae of the family Symbiodiniaceae associated with Acropora, Porites,
 and Stylophora coral genera cultivated at Shimoni, South Coast of Kenya, by the REEFolution Foundation.
+
+## Main Objective
+
+To elucidate the genetic basis underlying the resilience of coral symbionts (Symbiodiniaceae) inhabiting reefs along the Kenyan coast.
+
+## Specific objectives
+1. To assess the taxonomic annotation of the algae symbionts in coral species
+2. To assess the evolutionary relationship of the algae symbionts in coral species
+3. To characterize the algae symbionts within coral species
+4. To compare the genetic structure of the symbiont community of bleached and unbleached coral reefs within Shimoni in Kenyan coast.
