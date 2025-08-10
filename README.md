@@ -1,3 +1,5 @@
+The repository hosts materials for the ENEZA training 2025 edition.
+
 # Mini-Projects-2025
 
 # Eneza 2025 Residential Training Mini-Projects
